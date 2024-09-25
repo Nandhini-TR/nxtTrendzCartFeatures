@@ -1,0 +1,32 @@
+.cart-summary-container {
+  display: flex;
+  flex-direction: column;
+  text-align: right;
+}
+
+.order-heading {
+  color: #616e7c;
+  font-size: 20px;
+}
+
+.order-span-element {
+  color: #171f46;
+  font-weight: bold;
+}
+
+.order-count {
+  font-size: 18px;
+  color: #616e7c;
+  margin-top: 0px;
+}
+
+.checkout-button {
+  color: #ffffff;
+  height: 30px;
+  width: 200px;
+  padding: 10px;
+  text-align: center;
+  background-color: #0b69ff;
+  border: 0px none;
+  align-self: end;
+}
